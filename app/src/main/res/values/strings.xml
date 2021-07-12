@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApplicationWeither</string>
+    <string name="meteo">Bienvenue Météo Mondial</string>
+    <string name="saisie">Saisie et information Météo</string>
+    <string name="code_du_pays">code du pays</string>
+    <string name="voir_info">Voir info</string>
+    <string name="ville">veuillez saisir le nom de la vile</string>
+    <string name="nom_de_la_ville">Nom de la ville</string>
+    <string name="temperature">Temperature</string>
+</resources>
